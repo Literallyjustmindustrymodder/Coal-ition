@@ -8,13 +8,23 @@
   "explosionRadius":100,
   "explosionDamage":100,
   "explodeEffect":"",
-    "blockedItem": {
-      "item": "thorium",
+    "blockedItem": [
+      {
+        "item": "thorium"
+      }
+      {
       "item": "titanium",
+      }
+      {
       "item": "copper",
+      }
+      {
       "item": "lead",
+      }
+      {
       "item": "scrap"
-    },
+      }
+    ],
   "requirements":{
     "item":"coal",
     "amount":50
