@@ -1,0 +1,13 @@
+{
+    "type": "conveyor",
+    "name": "Agressive Coal Conveyor",
+    "description": "Conveys things",
+    "health": 100,
+    "requirements": {
+        "item" :"coal",
+        "amount" :"100"
+    },
+    "category":"distribution",
+    "speed":0.1,
+    "research":"titanium-conveyor"
+}
