@@ -4,7 +4,7 @@
     "type": "Wall",
     "health": 100,
     "size": 1,
-    "cost": [{"item": "coal", "amount": 4}],
+    "cost": {"item": "coal", "amount": 4},
     "category": "defense",
     "research":
     {
