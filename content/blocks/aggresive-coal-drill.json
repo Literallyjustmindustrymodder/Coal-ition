@@ -11,11 +11,21 @@
   "drawSpinSprite": false,
   "drawMineItem": false,
   "blockedItem": [
-    "thorium",
-    "titanium",
-    "copper",
-    "lead",
-    "scrap"
+    {
+      "item": "thorium"
+    },
+    {
+    "item": "titanium"
+    },
+    {
+    "item": "copper"
+    },
+    {
+    "item": "lead"
+    },
+    {
+    "item": "scrap"
+    }
   ],
   "requirements": {
     "item": "coal",
