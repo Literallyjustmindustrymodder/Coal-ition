@@ -5,9 +5,6 @@
   "size":2,
   "item capacity":100,
   "powerProduction":1000,
-  "explosionRadius":100,
-  "explosionDamage":100,
-  "explodeEffect":"",
   "requirements":{
     "item":"coal",
     "amount":50

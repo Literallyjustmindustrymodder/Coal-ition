@@ -1,5 +1,5 @@
 {
-    "type": "conveyor",
+    "type": "Conveyor",
     "name": "Agressive Coal Conveyor",
     "description": "Conveys things",
     "health": 100,
