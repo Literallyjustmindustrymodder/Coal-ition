@@ -1,17 +1,25 @@
 {
-  "name": "Aggressive coal generator",
-  "description": "Turns coal into power",
-  "type": "PowerGenerator",
+  "name": "Aggressive coal drill",
+  "description": "Only drills insane amounts of coal",
+  "type": "Drill",
   "size": 2,
-  "item capacity": 100,
-  "powerProduction": 1000,
-  "explosionRadius": 100,
-  "explosionDamage": 100,
-  "explodeEffect": "",
-    "blockedItem": ["thorium","titanium","copper","lead","scrap"],
+  "tier": 3,
+  "item capacity": 1,
+  "drillTime": 1,
+  "liquidBoostIntensity": 10,
+  "warmupSpeed": 10,
+  "drawSpinSprite": false,
+  "drawMineItem": false,
+  "blockedItem": [
+    "thorium",
+    "titanium",
+    "copper",
+    "lead",
+    "scrap"
+  ],
   "requirements": {
     "item": "coal",
-    "amount": 50
+    "amount": 100
   },
   "category": "production",
   "research": "pneumatic-drill"
