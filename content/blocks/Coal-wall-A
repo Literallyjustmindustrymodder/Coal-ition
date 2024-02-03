@@ -1,8 +1,0 @@
-{
-name: "Coalwall-A",
-description: "An agressive coal wall",
-type: "Wall",health: 100,size: 1,cost: [{item: "coal",amount: 4}],
-category: "defense",
-research:
-{parent: "titanium wall"}
-}
