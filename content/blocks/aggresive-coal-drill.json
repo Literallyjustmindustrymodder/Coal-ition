@@ -12,7 +12,7 @@
   "drawMineItem": false,
   "blockedItems": [
     {
-      "item": "thorium"
+    "item": "thorium"
     },
     {
     "item": "titanium"
