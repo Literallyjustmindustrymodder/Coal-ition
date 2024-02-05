@@ -10,7 +10,7 @@
   "warmupSpeed": 10,
   "drawSpinSprite": false,
   "drawMineItem": false,
-  "blockedItem": [
+  "blockedItems": [
     {
       "item": "thorium"
     },

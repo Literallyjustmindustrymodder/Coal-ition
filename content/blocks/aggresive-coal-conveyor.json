@@ -6,7 +6,8 @@
     "requirements": [
         {
             "item" : "coal",
-        "amount": 100}
+            "amount": 100
+        }
     ],
     "category":"distribution",
     "speed":0.1,

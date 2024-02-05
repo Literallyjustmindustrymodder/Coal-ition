@@ -5,10 +5,12 @@
   "size":2,
   "item capacity":100,
   "powerProduction":1000,
-  "requirements":{
-    "item":"coal",
-    "amount":50
-  },
+  "requirements":[
+    {
+      "item":"coal",
+      "amount":50
+    }
+  ],
   "category":"production",
   "research":"pneumatic-drill"
 }
