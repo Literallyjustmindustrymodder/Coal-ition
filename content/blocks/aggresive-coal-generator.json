@@ -1,7 +1,8 @@
 {
   "name":"Aggressive coal generator",
   "description":"Turns coal into power",
-  "type":"PowerGenerator",
+  "type":"ConsumeGenerator",
+  "Consumeitem":"coal",
   "size":2,
   "item capacity":100,
   "powerProduction":1000,
