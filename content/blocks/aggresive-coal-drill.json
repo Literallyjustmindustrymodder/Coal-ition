@@ -28,8 +28,10 @@
     }
   ],
   "requirements": {
-    "item": "coal",
-    "amount": 100
+    {
+      "item": "coal",
+      "amount": 100
+    }
   },
   "category": "production",
   "research": "pneumatic-drill"
